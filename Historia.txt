@@ -2,6 +2,4 @@ Este es mi archivo
 Crear mi primer commit en git 
 Susan Castillo
 
-Hoy hablaremos de mi historia y obra maestra
-
-
+Mañana nos enfocaremos en su vida laboral
