@@ -2,4 +2,4 @@ Este es mi archivo
 Crear mi primer commit en git 
 Susan Castillo
 
-Mañana nos enfocaremos en su vida laboral
+MaÃ±ana nos enfocaremos en su vida laboral
