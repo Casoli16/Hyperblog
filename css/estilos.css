@@ -40,3 +40,13 @@ body
 {
     font-size: 20px;
 }
+
+footer
+{
+    padding: 3em;
+    background-color: black;
+    color: white;
+    height: 1px;
+    text-align: center;
+   
+}
