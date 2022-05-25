@@ -48,3 +48,12 @@ body
     margin-top: 5px;
     vertical-align: middle;
 }
+
+footer
+{
+    padding: 3em;
+    background-color: black;
+    color: white;
+    height: 1px;
+    text-align: center;
+}
