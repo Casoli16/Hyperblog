@@ -1,5 +1,7 @@
 Este es mi archivo
 Crear mi primer commit en git 
-Susan Castillo
+Susan Castillo 
+
+Esta es una nueva prueba...
 
 Mañana nos enfocaremos en su vida laboral
